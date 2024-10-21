@@ -1,0 +1,1343 @@
+n_estimators: 100, max_depth: None, min_samples_split: 2, Accuracy: 0.64
+n_estimators: 100, max_depth: None, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 100, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 10, min_samples_split: 2, Accuracy: 0.64
+n_estimators: 100, max_depth: 10, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 100, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 20, min_samples_split: 2, Accuracy: 0.64
+n_estimators: 100, max_depth: 20, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 100, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 30, min_samples_split: 2, Accuracy: 0.64
+n_estimators: 100, max_depth: 30, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 100, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: None, min_samples_split: 2, Accuracy: 0.57
+n_estimators: 300, max_depth: None, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 10, min_samples_split: 2, Accuracy: 0.57
+n_estimators: 300, max_depth: 10, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 20, min_samples_split: 2, Accuracy: 0.57
+n_estimators: 300, max_depth: 20, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 30, min_samples_split: 2, Accuracy: 0.57
+n_estimators: 300, max_depth: 30, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: None, min_samples_split: 2, Accuracy: 0.64
+n_estimators: 500, max_depth: None, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 500, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 10, min_samples_split: 2, Accuracy: 0.64
+n_estimators: 500, max_depth: 10, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 500, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 20, min_samples_split: 2, Accuracy: 0.64
+n_estimators: 500, max_depth: 20, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 500, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 30, min_samples_split: 2, Accuracy: 0.64
+n_estimators: 500, max_depth: 30, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 500, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+Best Parameters - n_estimators: 100, max_depth: None, min_samples_split: 2
+Best Model Accuracy: 0.64
+Latest signal: sell
+Current USDT Balance: 60043.881601250076
+Current BTC Balance: 0.19260978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC39cf4b0fff73bc2a', 'ordId': '1913080398939373568', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516638802'}, 'id': '1913080398939373568', 'clientOrderId': 'e847386590ce4dBC39cf4b0fff73bc2a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79900.76571196872
+Current all_assest : 79900.76571196872
+Current BTC Price (in USDT): 68046.9
+Latest signal: sell
+Current USDT Balance: 60118.65822977007
+Current BTC Balance: 0.19150978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb84fc00d2b38e691', 'ordId': '1913080764749791232', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516649704'}, 'id': '1913080764749791232', 'clientOrderId': 'e847386590ce4dBCb84fc00d2b38e691', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79840.76710825543
+Current all_assest : 79840.76710825543
+Current BTC Price (in USDT): 67764.7
+Latest signal: sell
+Current USDT Balance: 60193.12485860007
+Current BTC Balance: 0.19040978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC525598cf21c9bf9f', 'ordId': '1913081131130634240', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516660623'}, 'id': '1913081131130634240', 'clientOrderId': 'e847386590ce4dBC525598cf21c9bf9f', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79832.40745507098
+Current all_assest : 79832.40745507098
+Current BTC Price (in USDT): 67773.2
+Latest signal: sell
+Current USDT Balance: 60267.600828080074
+Current BTC Balance: 0.18930978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC2894378c3aaacbe', 'ordId': '1913081497041715200', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516671528'}, 'id': '1913081497041715200', 'clientOrderId': 'e847386590ce4dBC2894378c3aaacbe', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79844.55304217151
+Current all_assest : 79844.55304217151
+Current BTC Price (in USDT): 67824.0
+Latest signal: sell
+Current USDT Balance: 60342.13229201007
+Current BTC Balance: 0.18820978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd245967d8041547d', 'ordId': '1913081863724548096', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516682456'}, 'id': '1913081863724548096', 'clientOrderId': 'e847386590ce4dBCd245967d8041547d', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79846.67369823244
+Current all_assest : 79846.67369823244
+Current BTC Price (in USDT): 67847.3
+Latest signal: sell
+Current USDT Balance: 60416.68968998007
+Current BTC Balance: 0.18710978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCdc0cdda88f8ac045', 'ordId': '1913082229971173376', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516693371'}, 'id': '1913082229971173376', 'clientOrderId': 'e847386590ce4dBCdc0cdda88f8ac045', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79845.86527639136
+Current all_assest : 79845.86527639136
+Current BTC Price (in USDT): 67831.5
+Latest signal: sell
+Current USDT Balance: 60491.222252810076
+Current BTC Balance: 0.18600978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCbd8aeaf1bbc4ac41', 'ordId': '1913082596654006272', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516704299'}, 'id': '1913082596654006272', 'clientOrderId': 'e847386590ce4dBCbd8aeaf1bbc4ac41', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79835.12291564798
+Current all_assest : 79835.12291564798
+Current BTC Price (in USDT): 67781.3
+Latest signal: sell
+Current USDT Balance: 60565.70701349007
+Current BTC Balance: 0.18490978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC7773576cd09ffb8a', 'ordId': '1913082962900631552', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516715214'}, 'id': '1913082962900631552', 'clientOrderId': 'e847386590ce4dBC7773576cd09ffb8a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79830.0529644766
+Current all_assest : 79830.0529644766
+Current BTC Price (in USDT): 67754.3
+Latest signal: sell
+Current USDT Balance: 60640.14935663007
+Current BTC Balance: 0.18380978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC4a67e864975c037', 'ordId': '1913083329247920128', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516726132'}, 'id': '1913083329247920128', 'clientOrderId': 'e847386590ce4dBC4a67e864975c037', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79828.33201269704
+Current all_assest : 79828.33201269704
+Current BTC Price (in USDT): 67742.1
+Latest signal: sell
+Current USDT Balance: 60714.58719428007
+Current BTC Balance: 0.18270978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC36452d1b8f09a4b6', 'ordId': '1913083695494545408', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516737047'}, 'id': '1913083695494545408', 'clientOrderId': 'e847386590ce4dBC36452d1b8f09a4b6', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79826.51898823329
+Current all_assest : 79826.51898823329
+Current BTC Price (in USDT): 67735.9
+Latest signal: sell
+Current USDT Balance: 60789.01646051007
+Current BTC Balance: 0.18160978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC666849675df8ab44', 'ordId': '1913084061841833984', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516747965'}, 'id': '1913084061841833984', 'clientOrderId': 'e847386590ce4dBC666849675df8ab44', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79833.31083336464
+Current all_assest : 79833.31083336464
+Current BTC Price (in USDT): 67776.0
+Latest signal: sell
+Current USDT Balance: 60863.46935309008
+Current BTC Balance: 0.18050978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCeecfd5845f2907d7', 'ordId': '1913084427920687104', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516758875'}, 'id': '1913084427920687104', 'clientOrderId': 'e847386590ce4dBCeecfd5845f2907d7', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79841.0911632969
+Current all_assest : 79841.0911632969
+Current BTC Price (in USDT): 67810.4
+Latest signal: sell
+Current USDT Balance: 60937.98158627007
+Current BTC Balance: 0.17940978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd8069adf71cb8c16', 'ordId': '1913084794100203520', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516769788'}, 'id': '1913084794100203520', 'clientOrderId': 'e847386590ce4dBCd8069adf71cb8c16', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79838.48827259455
+Current all_assest : 79838.48827259455
+Current BTC Price (in USDT): 67831.2
+Latest signal: sell
+Current USDT Balance: 61012.52129195008
+Current BTC Balance: 0.17830978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCde4060ac2b1671c', 'ordId': '1913085161252798464', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516780730'}, 'id': '1913085161252798464', 'clientOrderId': 'e847386590ce4dBCde4060ac2b1671c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79830.57852911878
+Current all_assest : 79830.57852911878
+Current BTC Price (in USDT): 67776.7
+Latest signal: sell
+Current USDT Balance: 61087.00110758007
+Current BTC Balance: 0.17720978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb0bca6d70a55f97', 'ordId': '1913085526928998400', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516791628'}, 'id': '1913085526928998400', 'clientOrderId': 'e847386590ce4dBCb0bca6d70a55f97', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79831.7462084877
+Current all_assest : 79831.7462084877
+Current BTC Price (in USDT): 67765.1
+Latest signal: sell
+Current USDT Balance: 61161.468175970076
+Current BTC Balance: 0.17610978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC21bef7c83d957d8', 'ordId': '1913085893209178112', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516802544'}, 'id': '1913085893209178112', 'clientOrderId': 'e847386590ce4dBC21bef7c83d957d8', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79822.87613738996
+Current all_assest : 79822.87613738996
+Current BTC Price (in USDT): 67730.7
+Latest signal: sell
+Current USDT Balance: 61235.888101550074
+Current BTC Balance: 0.17500978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC5c14960b9aa51628', 'ordId': '1913086259422248960', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516813458'}, 'id': '1913086259422248960', 'clientOrderId': 'e847386590ce4dBC5c14960b9aa51628', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79813.78517773823
+Current all_assest : 79813.78517773823
+Current BTC Price (in USDT): 67673.7
+Latest signal: sell
+Current USDT Balance: 61310.28626891007
+Current BTC Balance: 0.17390978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC3acc6335e58f8db1', 'ordId': '1913086625970864128', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516824382'}, 'id': '1913086625970864128', 'clientOrderId': 'e847386590ce4dBC3acc6335e58f8db1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79815.67778557427
+Current all_assest : 79815.67778557427
+Current BTC Price (in USDT): 67672.2
+Latest signal: sell
+Current USDT Balance: 61384.79916143008
+Current BTC Balance: 0.17280978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd9ce7acd0836e12e', 'ordId': '1913086991848390656', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516835286'}, 'id': '1913086991848390656', 'clientOrderId': 'e847386590ce4dBCd9ce7acd0836e12e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79806.96992824481
+Current all_assest : 79806.96992824481
+Current BTC Price (in USDT): 67635.4
+Latest signal: sell
+Current USDT Balance: 61459.12359260007
+Current BTC Balance: 0.17170978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8d788ddb41033308', 'ordId': '1913087358162124800', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516846203'}, 'id': '1913087358162124800', 'clientOrderId': 'e847386590ce4dBC8d788ddb41033308', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79811.69516183039
+Current all_assest : 79811.69516183039
+Current BTC Price (in USDT): 67660.4
+Latest signal: sell
+Current USDT Balance: 61533.46857320007
+Current BTC Balance: 0.17060978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8d80c196adbfa8c3', 'ordId': '1913087724106760192', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516857109'}, 'id': '1913087724106760192', 'clientOrderId': 'e847386590ce4dBC8d80c196adbfa8c3', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79806.80808642769
+Current all_assest : 79806.80808642769
+Current BTC Price (in USDT): 67651.2
+Latest signal: sell
+Current USDT Balance: 61607.81047688008
+Current BTC Balance: 0.16950978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCec6886364be3f8d6', 'ordId': '1913088091662008320', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516868063'}, 'id': '1913088091662008320', 'clientOrderId': 'e847386590ce4dBCec6886364be3f8d6', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79826.3276439646
+Current all_assest : 79826.3276439646
+Current BTC Price (in USDT): 67760.1
+Latest signal: sell
+Current USDT Balance: 61682.273479340074
+Current BTC Balance: 0.16840978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC3a62d38c63ad6d93', 'ordId': '1913088458344841216', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516878991'}, 'id': '1913088458344841216', 'clientOrderId': 'e847386590ce4dBC3a62d38c63ad6d93', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79826.24068274313
+Current all_assest : 79826.24068274313
+Current BTC Price (in USDT): 67743.4
+Latest signal: sell
+Current USDT Balance: 61756.716701600075
+Current BTC Balance: 0.16730978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC9a84a700fc97ce17', 'ordId': '1913088824591466496', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516889906'}, 'id': '1913088824591466496', 'clientOrderId': 'e847386590ce4dBC9a84a700fc97ce17', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79819.00942894978
+Current all_assest : 79819.00942894978
+Current BTC Price (in USDT): 67736.7
+Latest signal: sell
+Current USDT Balance: 61831.15409969007
+Current BTC Balance: 0.16620978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCce4252866d1b9c6d', 'ordId': '1913089190636765184', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516900815'}, 'id': '1913089190636765184', 'clientOrderId': 'e847386590ce4dBCce4252866d1b9c6d', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79827.62268945712
+Current all_assest : 79827.62268945712
+Current BTC Price (in USDT): 67760.8
+Latest signal: sell
+Current USDT Balance: 61905.611277980075
+Current BTC Balance: 0.16510978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC109d78dd0f4cc27', 'ordId': '1913089556648509440', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516911723'}, 'id': '1913089556648509440', 'clientOrderId': 'e847386590ce4dBC109d78dd0f4cc27', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79826.31926012409
+Current all_assest : 79826.31926012409
+Current BTC Price (in USDT): 67753.6
+Latest signal: sell
+Current USDT Balance: 61980.065599130074
+Current BTC Balance: 0.16400978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC99423552f2ef0139', 'ordId': '1913089923700441088', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516922662'}, 'id': '1913089923700441088', 'clientOrderId': 'e847386590ce4dBC99423552f2ef0139', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79826.27021576263
+Current all_assest : 79826.27021576263
+Current BTC Price (in USDT): 67782.2
+Latest signal: sell
+Current USDT Balance: 62054.55145871008
+Current BTC Balance: 0.16290978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC4b7e24f10c725123', 'ordId': '1913090289611522048', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516933567'}, 'id': '1913090289611522048', 'clientOrderId': 'e847386590ce4dBC4b7e24f10c725123', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79839.35709908331
+Current all_assest : 79839.35709908331
+Current BTC Price (in USDT): 67809.8
+Latest signal: sell
+Current USDT Balance: 62129.067647930075
+Current BTC Balance: 0.16180978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC332ded6493bc05', 'ordId': '1913090655925256193', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516944484'}, 'id': '1913090655925256193', 'clientOrderId': 'e847386590ce4dBC332ded6493bc05', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79835.9004203933
+Current all_assest : 79835.9004203933
+Current BTC Price (in USDT): 67807.9
+Latest signal: sell
+Current USDT Balance: 62203.581749240075
+Current BTC Balance: 0.16070978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc120b20f0a96ee69', 'ordId': '1913091023178514432', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516955429'}, 'id': '1913091023178514432', 'clientOrderId': 'e847386590ce4dBCc120b20f0a96ee69', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79829.08987587522
+Current all_assest : 79829.08987587522
+Current BTC Price (in USDT): 67695.0
+Latest signal: sell
+Current USDT Balance: 62277.97588682888
+Current BTC Balance: 0.15960978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCf367a7b4f7038889', 'ordId': '1913091389391585280', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516966343'}, 'id': '1913091389391585280', 'clientOrderId': 'e847386590ce4dBCf367a7b4f7038889', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79835.10871302207
+Current all_assest : 79835.10871302207
+Current BTC Price (in USDT): 67851.9
+Latest signal: sell
+Current USDT Balance: 62352.53833973888
+Current BTC Balance: 0.15850978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC10a95e66e44319c3', 'ordId': '1913091755973754880', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516977268'}, 'id': '1913091755973754880', 'clientOrderId': 'e847386590ce4dBC10a95e66e44319c3', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79843.06600641758
+Current all_assest : 79843.06600641758
+Current BTC Price (in USDT): 67843.9
+Latest signal: sell
+Current USDT Balance: 62427.09200144888
+Current BTC Balance: 0.15740978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC81d1e3790b6a5ab8', 'ordId': '1913092122790805504', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516988200'}, 'id': '1913092122790805504', 'clientOrderId': 'e847386590ce4dBC81d1e3790b6a5ab8', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79846.42991715655
+Current all_assest : 79846.42991715655
+Current BTC Price (in USDT): 67859.9
+Latest signal: sell
+Current USDT Balance: 62501.66324555888
+Current BTC Balance: 0.15630978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC752a8effa2f39155', 'ordId': '1913092489037430784', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729516999115'}, 'id': '1913092489037430784', 'clientOrderId': 'e847386590ce4dBC752a8effa2f39155', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79839.99129824717
+Current all_assest : 79839.99129824717
+Current BTC Price (in USDT): 67856.1
+Latest signal: sell
+Current USDT Balance: 62576.23031384888
+Current BTC Balance: 0.15520978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe8eba4b56bf9f3ee', 'ordId': '1913092856122916864', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517010055'}, 'id': '1913092856122916864', 'clientOrderId': 'e847386590ce4dBCe8eba4b56bf9f3ee', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79842.43821743528
+Current all_assest : 79842.43821743528
+Current BTC Price (in USDT): 67851.6
+Latest signal: sell
+Current USDT Balance: 62650.79243708888
+Current BTC Balance: 0.15410978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCce23a086dd39afe9', 'ordId': '1913093222939967488', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517020987'}, 'id': '1913093222939967488', 'clientOrderId': 'e847386590ce4dBCce23a086dd39afe9', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79838.46104121159
+Current all_assest : 79838.46104121159
+Current BTC Price (in USDT): 67832.3
+Latest signal: sell
+Current USDT Balance: 62725.33510979888
+Current BTC Balance: 0.15300978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe972a0592bf508d0', 'ordId': '1913093588783939584', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517031890'}, 'id': '1913093588783939584', 'clientOrderId': 'e847386590ce4dBCe972a0592bf508d0', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79838.00247093894
+Current all_assest : 79838.00247093894
+Current BTC Price (in USDT): 67826.0
+Latest signal: sell
+Current USDT Balance: 62799.86910119888
+Current BTC Balance: 0.15190978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC6b5577cb3526a28c', 'ordId': '1913093954896347136', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517042801'}, 'id': '1913093954896347136', 'clientOrderId': 'e847386590ce4dBC6b5577cb3526a28c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79840.90428089697
+Current all_assest : 79840.90428089697
+Current BTC Price (in USDT): 67847.7
+Latest signal: sell
+Current USDT Balance: 62874.42693872888
+Current BTC Balance: 0.15080978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc8ecfa43810416f8', 'ordId': '1913094321612734464', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517053730'}, 'id': '1913094321612734464', 'clientOrderId': 'e847386590ce4dBCc8ecfa43810416f8', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79834.60554948552
+Current all_assest : 79834.60554948552
+Current BTC Price (in USDT): 67817.9
+Latest signal: sell
+Current USDT Balance: 62948.952029038875
+Current BTC Balance: 0.14970978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC45d6fc91c853e84b', 'ordId': '1913094688194904064', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517064655'}, 'id': '1913094688194904064', 'clientOrderId': 'e847386590ce4dBC45d6fc91c853e84b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79834.08638676156
+Current all_assest : 79834.08638676156
+Current BTC Price (in USDT): 67816.4
+Latest signal: sell
+Current USDT Balance: 63023.47547099888
+Current BTC Balance: 0.14860978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8ee0ab2ce2c6cd29', 'ordId': '1913095053971767296', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517075556'}, 'id': '1913095053971767296', 'clientOrderId': 'e847386590ce4dBC8ee0ab2ce2c6cd29', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79838.69192082928
+Current all_assest : 79838.69192082928
+Current BTC Price (in USDT): 67833.6
+Latest signal: sell
+Current USDT Balance: 63098.01781403888
+Current BTC Balance: 0.14750978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb53cf6196808aff6', 'ordId': '1913095424580468736', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517086601'}, 'id': '1913095424580468736', 'clientOrderId': 'e847386590ce4dBCb53cf6196808aff6', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79844.46292193582
+Current all_assest : 79844.46292193582
+Current BTC Price (in USDT): 67874.3
+Latest signal: sell
+Current USDT Balance: 63172.60488230888
+Current BTC Balance: 0.14640978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa4ec2eb9086236af', 'ordId': '1913095790491549696', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517097506'}, 'id': '1913095790491549696', 'clientOrderId': 'e847386590ce4dBCa4ec2eb9086236af', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79847.58918882134
+Current all_assest : 79847.58918882134
+Current BTC Price (in USDT): 67866.0
+Latest signal: sell
+Current USDT Balance: 63247.18502750888
+Current BTC Balance: 0.14530978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC5be2e3083a9e40d6', 'ordId': '1913096156469739520', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517108413'}, 'id': '1913096156469739520', 'clientOrderId': 'e847386590ce4dBC5be2e3083a9e40d6', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79849.03510482312
+Current all_assest : 79849.03510482312
+Current BTC Price (in USDT): 67874.9
+Latest signal: sell
+Current USDT Balance: 63321.77923862888
+Current BTC Balance: 0.14420978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC62fd491e1161b400', 'ordId': '1913096523051909120', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517119338'}, 'id': '1913096523051909120', 'clientOrderId': 'e847386590ce4dBC62fd491e1161b400', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79851.51906550137
+Current all_assest : 79851.51906550137
+Current BTC Price (in USDT): 67884.5
+Latest signal: sell
+Current USDT Balance: 63396.37465853888
+Current BTC Balance: 0.14310978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb5b79d3b3bdaf4ea', 'ordId': '1913096889164316672', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517130249'}, 'id': '1913096889164316672', 'clientOrderId': 'e847386590ce4dBCb5b79d3b3bdaf4ea', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79854.78372147931
+Current all_assest : 79854.78372147931
+Current BTC Price (in USDT): 67884.9
+Latest signal: sell
+Current USDT Balance: 63470.97337514888
+Current BTC Balance: 0.14200978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb418938e912cfb56', 'ordId': '1913097255679377408', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517141172'}, 'id': '1913097255679377408', 'clientOrderId': 'e847386590ce4dBCb418938e912cfb56', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79847.4803519297
+Current all_assest : 79847.4803519297
+Current BTC Price (in USDT): 67827.8
+Latest signal: sell
+Current USDT Balance: 63545.509344568876
+Current BTC Balance: 0.14090978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa994ddacaf4e3f1e', 'ordId': '1913097621758230528', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517152082'}, 'id': '1913097621758230528', 'clientOrderId': 'e847386590ce4dBCa994ddacaf4e3f1e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79849.66391425238
+Current all_assest : 79849.66391425238
+Current BTC Price (in USDT): 67850.0
+Latest signal: sell
+Current USDT Balance: 63620.06970956888
+Current BTC Balance: 0.13980978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC7ac69015b4987a40', 'ordId': '1913097988139073536', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517163001'}, 'id': '1913097988139073536', 'clientOrderId': 'e847386590ce4dBC7ac69015b4987a40', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79846.38927925238
+Current all_assest : 79846.38927925238
+Current BTC Price (in USDT): 67850.0
+Latest signal: sell
+Current USDT Balance: 63694.63007456888
+Current BTC Balance: 0.13870978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC7f68a5307567db4c', 'ordId': '1913098354217926656', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517173911'}, 'id': '1913098354217926656', 'clientOrderId': 'e847386590ce4dBC7f68a5307567db4c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79847.60431376686
+Current all_assest : 79847.60431376686
+Current BTC Price (in USDT): 67858.0
+Latest signal: sell
+Current USDT Balance: 63769.19923076888
+Current BTC Balance: 0.13760978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd0a1a453ac7f37a2', 'ordId': '1913098720699432960', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517184833'}, 'id': '1913098720699432960', 'clientOrderId': 'e847386590ce4dBCd0a1a453ac7f37a2', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79846.70470180993
+Current all_assest : 79846.70470180993
+Current BTC Price (in USDT): 67852.1
+Latest signal: sell
+Current USDT Balance: 63843.72882656888
+Current BTC Balance: 0.13650978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC44b51fbb3070eff8', 'ordId': '1913099088086908928', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517195782'}, 'id': '1913099088086908928', 'clientOrderId': 'e847386590ce4dBC44b51fbb3070eff8', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79847.70516087834
+Current all_assest : 79847.70516087834
+Current BTC Price (in USDT): 67874.7
+Latest signal: sell
+Current USDT Balance: 63918.31633439888
+Current BTC Balance: 0.13540978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC7bd8ce1319b87a95', 'ordId': '1913099454434197504', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517206700'}, 'id': '1913099454434197504', 'clientOrderId': 'e847386590ce4dBC7bd8ce1319b87a95', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79845.90710512186
+Current all_assest : 79845.90710512186
+Current BTC Price (in USDT): 67872.5
+Latest signal: sell
+Current USDT Balance: 63992.86593017888
+Current BTC Balance: 0.13430978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCba0d0b41cbc0465e', 'ordId': '1913099820378832896', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517217606'}, 'id': '1913099820378832896', 'clientOrderId': 'e847386590ce4dBCba0d0b41cbc0465e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79849.92114316305
+Current all_assest : 79849.92114316305
+Current BTC Price (in USDT): 67878.0
+Latest signal: sell
+Current USDT Balance: 64067.457064378876
+Current BTC Balance: 0.13320978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC5a6c79d919b0534d', 'ordId': '1913100186793230336', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517228526'}, 'id': '1913100186793230336', 'clientOrderId': 'e847386590ce4dBC5a6c79d919b0534d', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79846.87364260582
+Current all_assest : 79846.87364260582
+Current BTC Price (in USDT): 67874.0
+Latest signal: sell
+Current USDT Balance: 64142.04380297888
+Current BTC Balance: 0.13210978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC78058e19c77a1632', 'ordId': '1913100553576726528', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517239457'}, 'id': '1913100553576726528', 'clientOrderId': 'e847386590ce4dBC78058e19c77a1632', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79849.08208218476
+Current all_assest : 79849.08208218476
+Current BTC Price (in USDT): 67874.1
+Latest signal: sell
+Current USDT Balance: 64216.63054157888
+Current BTC Balance: 0.13100978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC80a3022439fad6bd', 'ordId': '1913100919756242944', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517250370'}, 'id': '1913100919756242944', 'clientOrderId': 'e847386590ce4dBC80a3022439fad6bd', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79854.42956707926
+Current all_assest : 79854.42956707926
+Current BTC Price (in USDT): 67878.7
+Latest signal: sell
+Current USDT Balance: 64290.75948770161
+Current BTC Balance: 0.12990978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCad87f6eb85c3aa73', 'ordId': '1913101285935759360', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517261283'}, 'id': '1913101285935759360', 'clientOrderId': 'e847386590ce4dBCad87f6eb85c3aa73', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79857.89919871642
+Current all_assest : 79857.89919871642
+Current BTC Price (in USDT): 67948.1
+Latest signal: sell
+Current USDT Balance: 64365.418753701604
+Current BTC Balance: 0.12880978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC4785674f8b57fe0c', 'ordId': '1913101652316602368', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517272202'}, 'id': '1913101652316602368', 'clientOrderId': 'e847386590ce4dBC4785674f8b57fe0c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79862.80631144717
+Current all_assest : 79862.80631144717
+Current BTC Price (in USDT): 67948.0
+Latest signal: sell
+Current USDT Balance: 64440.088898811606
+Current BTC Balance: 0.12770978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd3354355d9c1766a', 'ordId': '1913102019200761856', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517283136'}, 'id': '1913102019200761856', 'clientOrderId': 'e847386590ce4dBCd3354355d9c1766a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79860.58049509625
+Current all_assest : 79860.58049509625
+Current BTC Price (in USDT): 67956.5
+n_estimators: 100, max_depth: None, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 100, max_depth: None, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 100, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 10, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 100, max_depth: 10, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 100, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 20, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 100, max_depth: 20, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 100, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 30, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 100, max_depth: 30, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 100, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: None, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 300, max_depth: None, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 10, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 300, max_depth: 10, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 20, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 300, max_depth: 20, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 30, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 300, max_depth: 30, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: None, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 500, max_depth: None, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 500, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 10, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 500, max_depth: 10, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 500, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 20, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 500, max_depth: 20, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 500, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 30, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 500, max_depth: 30, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 500, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+Best Parameters - n_estimators: 100, max_depth: None, min_samples_split: 2
+Best Model Accuracy: 0.71
+Latest signal: sell
+Current USDT Balance: 64514.766296661604
+Current BTC Balance: 0.12660978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC7a2e55f699453755', 'ordId': '1913102644487602176', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517301771'}, 'id': '1913102644487602176', 'clientOrderId': 'e847386590ce4dBC7a2e55f699453755', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79863.33212644093
+Current all_assest : 79863.33212644093
+Current BTC Price (in USDT): 67972.0
+Latest signal: sell
+Current USDT Balance: 64589.46072746161
+Current BTC Balance: 0.12550978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa6e31b69286b95b3', 'ordId': '1913103010331574272', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517312674'}, 'id': '1913103010331574272', 'clientOrderId': 'e847386590ce4dBCa6e31b69286b95b3', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79855.44755546976
+Current all_assest : 79855.44755546976
+Current BTC Price (in USDT): 67908.5
+Latest signal: sell
+Current USDT Balance: 64664.08537811161
+Current BTC Balance: 0.12440978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCce7a7c83751db1eb', 'ordId': '1913103376813080576', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517323596'}, 'id': '1913103376813080576', 'clientOrderId': 'e847386590ce4dBCce7a7c83751db1eb', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79857.91341444022
+Current all_assest : 79857.91341444022
+Current BTC Price (in USDT): 67899.1
+Latest signal: sell
+Current USDT Balance: 64738.699699101606
+Current BTC Balance: 0.12330978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd311e12678924369', 'ordId': '1913103742556389376', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517334496'}, 'id': '1913103742556389376', 'clientOrderId': 'e847386590ce4dBCd311e12678924369', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79853.5838307605
+Current all_assest : 79853.5838307605
+Current BTC Price (in USDT): 67881.3
+Latest signal: sell
+Current USDT Balance: 64813.294459671604
+Current BTC Balance: 0.12220978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc54bea418314b67e', 'ordId': '1913104109037895680', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517345418'}, 'id': '1913104109037895680', 'clientOrderId': 'e847386590ce4dBCc54bea418314b67e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79855.50782557306
+Current all_assest : 79855.50782557306
+Current BTC Price (in USDT): 67897.9
+Latest signal: sell
+Current USDT Balance: 64887.90746198161
+Current BTC Balance: 0.12110978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb404f4daf89cbc0a', 'ordId': '1913104475284520960', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517356333'}, 'id': '1913104475284520960', 'clientOrderId': 'e847386590ce4dBCb404f4daf89cbc0a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79859.06102701412
+Current all_assest : 79859.06102701412
+Current BTC Price (in USDT): 67897.8
+Latest signal: sell
+Current USDT Balance: 64962.520354401604
+Current BTC Balance: 0.12000978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa829e1c305070899', 'ordId': '1913104841833136128', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517367257'}, 'id': '1913104841833136128', 'clientOrderId': 'e847386590ce4dBCa829e1c305070899', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79859.55079376596
+Current all_assest : 79859.55079376596
+Current BTC Price (in USDT): 67899.5
+Latest signal: sell
+Current USDT Balance: 65037.13555451161
+Current BTC Balance: 0.11890978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC71b2d3bfc9e3c325', 'ordId': '1913105207844880384', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517378165'}, 'id': '1913105207844880384', 'clientOrderId': 'e847386590ce4dBC71b2d3bfc9e3c325', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79860.83440696541
+Current all_assest : 79860.83440696541
+Current BTC Price (in USDT): 67922.0
+Latest signal: sell
+Current USDT Balance: 65111.777897451604
+Current BTC Balance: 0.11780978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc31bd184e2af9520', 'ordId': '1913105574460604416', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517389091'}, 'id': '1913105574460604416', 'clientOrderId': 'e847386590ce4dBCc31bd184e2af9520', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79859.4161337203
+Current all_assest : 79859.4161337203
+Current BTC Price (in USDT): 67901.9
+Latest signal: sell
+Current USDT Balance: 65186.389690971606
+Current BTC Balance: 0.11670978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa734b5dfb40a86e', 'ordId': '1913105940271022080', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517399993'}, 'id': '1913105940271022080', 'clientOrderId': 'e847386590ce4dBCa734b5dfb40a86e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79861.37679819163
+Current all_assest : 79861.37679819163
+Current BTC Price (in USDT): 67912.9
+Latest signal: sell
+Current USDT Balance: 65261.01917678161
+Current BTC Balance: 0.11560978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb0ba690c2065c9fc', 'ordId': '1913106306920300544', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517410920'}, 'id': '1913106306920300544', 'clientOrderId': 'e847386590ce4dBCb0ba690c2065c9fc', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79860.76838956158
+Current all_assest : 79860.76838956158
+Current BTC Price (in USDT): 67912.9
+Latest signal: sell
+Current USDT Balance: 65335.64569556161
+Current BTC Balance: 0.11450978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc0b15f00ed55c443', 'ordId': '1913106673166925824', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517421835'}, 'id': '1913106673166925824', 'clientOrderId': 'e847386590ce4dBCc0b15f00ed55c443', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79850.41643433514
+Current all_assest : 79850.41643433514
+Current BTC Price (in USDT): 67823.6
+Latest signal: sell
+Current USDT Balance: 65410.1774743844
+Current BTC Balance: 0.11340978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC378d406c4c8b327b', 'ordId': '1913107039883313152', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517432764'}, 'id': '1913107039883313152', 'clientOrderId': 'e847386590ce4dBC378d406c4c8b327b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79863.24572921178
+Current all_assest : 79863.24572921178
+Current BTC Price (in USDT): 67908.0
+Latest signal: sell
+Current USDT Balance: 65484.8015755844
+Current BTC Balance: 0.11230978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCbc84ecd1dbedf8e5', 'ordId': '1913107406901690368', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517443702'}, 'id': '1913107406901690368', 'clientOrderId': 'e847386590ce4dBCbc84ecd1dbedf8e5', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79859.21127363629
+Current all_assest : 79859.21127363629
+Current BTC Price (in USDT): 67901.6
+Latest signal: sell
+Current USDT Balance: 65559.41864382439
+Current BTC Balance: 0.11120978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC35f93a928c768380', 'ordId': '1913107773383196672', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517454624'}, 'id': '1913107773383196672', 'clientOrderId': 'e847386590ce4dBC35f93a928c768380', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79853.49287047988
+Current all_assest : 79853.49287047988
+Current BTC Price (in USDT): 67873.2
+Latest signal: sell
+Current USDT Balance: 65634.0091186844
+Current BTC Balance: 0.11010978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC9e64ca12d8eb3b04', 'ordId': '1913108139529158656', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517465536'}, 'id': '1913108139529158656', 'clientOrderId': 'e847386590ce4dBC9e64ca12d8eb3b04', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79854.94353769445
+Current all_assest : 79854.94353769445
+Current BTC Price (in USDT): 67848.0
+Latest signal: sell
+Current USDT Balance: 65708.5630001744
+Current BTC Balance: 0.10900978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC97964ef7bc8262ac', 'ordId': '1913108506178437120', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517476463'}, 'id': '1913108506178437120', 'clientOrderId': 'e847386590ce4dBC97964ef7bc8262ac', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79848.58805086162
+Current all_assest : 79848.58805086162
+Current BTC Price (in USDT): 67828.0
+Latest signal: sell
+Current USDT Balance: 65783.09918937439
+Current BTC Balance: 0.10790978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCf3077f84a1ecccf8', 'ordId': '1913108872223735808', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517487372'}, 'id': '1913108872223735808', 'clientOrderId': 'e847386590ce4dBCf3077f84a1ecccf8', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79853.90735905663
+Current all_assest : 79853.90735905663
+Current BTC Price (in USDT): 67852.4
+Latest signal: sell
+Current USDT Balance: 65857.6621917344
+Current BTC Balance: 0.10680978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC43508adee43ab4e5', 'ordId': '1913109238604578816', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517498291'}, 'id': '1913109238604578816', 'clientOrderId': 'e847386590ce4dBC43508adee43ab4e5', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79853.29133376724
+Current all_assest : 79853.29133376724
+Current BTC Price (in USDT): 67861.9
+Latest signal: sell
+Current USDT Balance: 65932.23563364439
+Current BTC Balance: 0.10570978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC33be491c1bf25855', 'ordId': '1913109604884758530', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517509207'}, 'id': '1913109604884758530', 'clientOrderId': 'e847386590ce4dBC33be491c1bf25855', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79859.37998334745
+Current all_assest : 79859.37998334745
+Current BTC Price (in USDT): 67921.8
+Latest signal: sell
+Current USDT Balance: 66006.76479579149
+Current BTC Balance: 0.10460978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC53fedc059bfa15f9', 'ordId': '1913109971701809152', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517520139'}, 'id': '1913109971701809152', 'clientOrderId': 'e847386590ce4dBC53fedc059bfa15f9', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79850.76040029057
+Current all_assest : 79850.76040029057
+Current BTC Price (in USDT): 67850.4
+Latest signal: sell
+Current USDT Balance: 66081.31944651148
+Current BTC Balance: 0.10350978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC14883635353507e8', 'ordId': '1913110338183315456', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517531061'}, 'id': '1913110338183315456', 'clientOrderId': 'e847386590ce4dBC14883635353507e8', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79846.3161454331
+Current all_assest : 79846.3161454331
+Current BTC Price (in USDT): 67816.5
+Latest signal: sell
+Current USDT Balance: 66155.84266869149
+Current BTC Balance: 0.10240978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe7b6e559b4dca877', 'ordId': '1913110704564158464', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517541980'}, 'id': '1913110704564158464', 'clientOrderId': 'e847386590ce4dBCe7b6e559b4dca877', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79841.75916883508
+Current all_assest : 79841.75916883508
+Current BTC Price (in USDT): 67794.8
+Latest signal: sell
+Current USDT Balance: 66230.34226452149
+Current BTC Balance: 0.10130978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCdbf1943015f88f87', 'ordId': '1913111071012110336', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517552901'}, 'id': '1913111071012110336', 'clientOrderId': 'e847386590ce4dBCdbf1943015f88f87', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79837.24443877219
+Current all_assest : 79837.24443877219
+Current BTC Price (in USDT): 67764.1
+Latest signal: sell
+Current USDT Balance: 66304.80823401149
+Current BTC Balance: 0.10020978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd48c44d6428c35e0', 'ordId': '1913111437325844480', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517563818'}, 'id': '1913111437325844480', 'clientOrderId': 'e847386590ce4dBCd48c44d6428c35e0', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79844.76807614825
+Current all_assest : 79844.76807614825
+Current BTC Price (in USDT): 67816.4
+Latest signal: sell
+Current USDT Balance: 66379.32112653149
+Current BTC Balance: 0.09910978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe49be2632e0c38f1', 'ordId': '1913111803740241920', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517574738'}, 'id': '1913111803740241920', 'clientOrderId': 'e847386590ce4dBCe49be2632e0c38f1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79847.38366916464
+Current all_assest : 79847.38366916464
+Current BTC Price (in USDT): 67836.0
+Latest signal: sell
+Current USDT Balance: 66453.77160153148
+Current BTC Balance: 0.09800978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCdd5462821e82c3df', 'ordId': '1913112171362598912', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517585694'}, 'id': '1913112171362598912', 'clientOrderId': 'e847386590ce4dBCdd5462821e82c3df', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79851.01278239522
+Current all_assest : 79851.01278239522
+Current BTC Price (in USDT): 67860.5
+Latest signal: sell
+Current USDT Balance: 66528.32866983149
+Current BTC Balance: 0.09690978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC59b9aef3b95d89d1', 'ordId': '1913112537810550784', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517596615'}, 'id': '1913112537810550784', 'clientOrderId': 'e847386590ce4dBC59b9aef3b95d89d1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79839.6796598359
+Current all_assest : 79839.6796598359
+Current BTC Price (in USDT): 67799.4
+Latest signal: sell
+Current USDT Balance: 66602.83343049149
+Current BTC Balance: 0.09580978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC173ce8c16e5214f7', 'ordId': '1913112904627601408', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517607547'}, 'id': '1913112904627601408', 'clientOrderId': 'e847386590ce4dBC173ce8c16e5214f7', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79839.18112576782
+Current all_assest : 79839.18112576782
+Current BTC Price (in USDT): 67790.8
+Latest signal: sell
+Current USDT Balance: 66677.32874061148
+Current BTC Balance: 0.09470978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC49f9b4568641212b', 'ordId': '1913113270471573504', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517618450'}, 'id': '1913113270471573504', 'clientOrderId': 'e847386590ce4dBC49f9b4568641212b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79838.33247002498
+Current all_assest : 79838.33247002498
+Current BTC Price (in USDT): 67776.1
+Latest signal: sell
+Current USDT Balance: 66751.80602877149
+Current BTC Balance: 0.09360978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd8db05a942016152', 'ordId': '1913113637087297536', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517629376'}, 'id': '1913113637087297536', 'clientOrderId': 'e847386590ce4dBCd8db05a942016152', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79837.669224873
+Current all_assest : 79837.669224873
+Current BTC Price (in USDT): 67797.8
+Latest signal: sell
+Current USDT Balance: 66826.30903119149
+Current BTC Balance: 0.09250978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa94130c0d5d54dfe', 'ordId': '1913114003099041792', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517640284'}, 'id': '1913114003099041792', 'clientOrderId': 'e847386590ce4dBCa94130c0d5d54dfe', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79836.1090105946
+Current all_assest : 79836.1090105946
+Current BTC Price (in USDT): 67806.3
+Latest signal: sell
+Current USDT Balance: 66900.82137426149
+Current BTC Balance: 0.09140978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC5f17fe0853dddc3b', 'ordId': '1913114370083864576', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517651221'}, 'id': '1913114370083864576', 'clientOrderId': 'e847386590ce4dBC5f17fe0853dddc3b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79835.95390570117
+Current all_assest : 79835.95390570117
+Current BTC Price (in USDT): 67796.0
+Latest signal: sell
+Current USDT Balance: 66975.32239866149
+Current BTC Balance: 0.09030978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb2154ed986fb175e', 'ordId': '1913114736632479744', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517662145'}, 'id': '1913114736632479744', 'clientOrderId': 'e847386590ce4dBCb2154ed986fb175e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79834.51361570119
+Current all_assest : 79834.51361570119
+Current BTC Price (in USDT): 67800.0
+Latest signal: sell
+Current USDT Balance: 67049.82781866149
+Current BTC Balance: 0.08920978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC2c0e62fe755b4d30', 'ordId': '1913115102610669568', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517673052'}, 'id': '1913115102610669568', 'clientOrderId': 'e847386590ce4dBC2c0e62fe755b4d30', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79831.9680969184
+Current all_assest : 79831.9680969184
+Current BTC Price (in USDT): 67743.4
+Latest signal: sell
+Current USDT Balance: 67124.27170026148
+Current BTC Balance: 0.08810978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC4957810aacc4e260', 'ordId': '1913115469058621440', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517683973'}, 'id': '1913115469058621440', 'clientOrderId': 'e847386590ce4dBC4957810aacc4e260', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79829.60702224997
+Current all_assest : 79829.60702224997
+Current BTC Price (in USDT): 67761.3
+Latest signal: sell
+Current USDT Balance: 67198.73448294148
+Current BTC Balance: 0.08700978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc09d2befe9752b5a', 'ordId': '1913115835405910016', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517694891'}, 'id': '1913115835405910016', 'clientOrderId': 'e847386590ce4dBCc09d2befe9752b5a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79828.76066976736
+Current all_assest : 79828.76066976736
+Current BTC Price (in USDT): 67742.2
+Latest signal: sell
+Current USDT Balance: 67273.17254037148
+Current BTC Balance: 0.08590978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC763f7913e90daefe', 'ordId': '1913116201417654272', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517705799'}, 'id': '1913116201417654272', 'clientOrderId': 'e847386590ce4dBC763f7913e90daefe', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79827.14824289102
+Current all_assest : 79827.14824289102
+Current BTC Price (in USDT): 67745.6
+Latest signal: sell
+Current USDT Balance: 67347.61818021149
+Current BTC Balance: 0.08480978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd1be78bb75dd94e4', 'ordId': '1913116568167596032', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517716729'}, 'id': '1913116568167596032', 'clientOrderId': 'e847386590ce4dBCd1be78bb75dd94e4', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79823.55336039889
+Current all_assest : 79823.55336039889
+Current BTC Price (in USDT): 67710.0
+Latest signal: sell
+Current USDT Balance: 67422.022896504
+Current BTC Balance: 0.08370978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC2217323238bd69e6', 'ordId': '1913116934514884608', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517727647'}, 'id': '1913116934514884608', 'clientOrderId': 'e847386590ce4dBC2217323238bd69e6', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79820.40916549321
+Current all_assest : 79820.40916549321
+Current BTC Price (in USDT): 67662.6
+Latest signal: sell
+Current USDT Balance: 67496.377327644
+Current BTC Balance: 0.08260978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC33b053b4ea57dd53', 'ordId': '1913117301399044096', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517738581'}, 'id': '1913117301399044096', 'clientOrderId': 'e847386590ce4dBC33b053b4ea57dd53', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79820.64592895005
+Current all_assest : 79820.64592895005
+Current BTC Price (in USDT): 67657.9
+Latest signal: sell
+Current USDT Balance: 67570.724754793
+Current BTC Balance: 0.08150978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC85fed612667f7bb1', 'ordId': '1913117667377233920', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517749488'}, 'id': '1913117667377233920', 'clientOrderId': 'e847386590ce4dBC85fed612667f7bb1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79818.30478852276
+Current all_assest : 79818.30478852276
+Current BTC Price (in USDT): 67696.0
+Latest signal: sell
+Current USDT Balance: 67645.113691393
+Current BTC Balance: 0.08040978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC6b78972b33d0a605', 'ordId': '1913118033690968064', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517760405'}, 'id': '1913118033690968064', 'clientOrderId': 'e847386590ce4dBC6b78972b33d0a605', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79816.5959591297
+Current all_assest : 79816.5959591297
+Current BTC Price (in USDT): 67666.6
+Latest signal: sell
+Current USDT Balance: 67719.472518133
+Current BTC Balance: 0.07930978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc32a7749323a49af', 'ordId': '1913118399501385728', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517771307'}, 'id': '1913118399501385728', 'clientOrderId': 'e847386590ce4dBCc32a7749323a49af', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79813.50086123601
+Current all_assest : 79813.50086123601
+Current BTC Price (in USDT): 67653.6
+Latest signal: sell
+Current USDT Balance: 67793.817059173
+Current BTC Balance: 0.07820978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC95a35794964709e4', 'ordId': '1913118766150664192', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517782234'}, 'id': '1913118766150664192', 'clientOrderId': 'e847386590ce4dBC95a35794964709e4', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79809.4165383276
+Current all_assest : 79809.4165383276
+Current BTC Price (in USDT): 67659.6
+Latest signal: sell
+Current USDT Balance: 67868.168193613
+Current BTC Balance: 0.07710978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCed9e5f9e40cfea0c', 'ordId': '1913119132263071744', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517793145'}, 'id': '1913119132263071744', 'clientOrderId': 'e847386590ce4dBCed9e5f9e40cfea0c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79818.98242075276
+Current all_assest : 79818.98242075276
+Current BTC Price (in USDT): 67690.9
+Latest signal: sell
+Current USDT Balance: 67942.553723623
+Current BTC Balance: 0.07600978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC4c7d9fd08bae3ed2', 'ordId': '1913119499348557824', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517804085'}, 'id': '1913119499348557824', 'clientOrderId': 'e847386590ce4dBC4c7d9fd08bae3ed2', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79810.96680062891
+Current all_assest : 79810.96680062891
+Current BTC Price (in USDT): 67655.2
+Latest signal: sell
+Current USDT Balance: 68016.900022903
+Current BTC Balance: 0.07490978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC7e3688e2cd843530', 'ordId': '1913119865293193216', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517814991'}, 'id': '1913119865293193216', 'clientOrderId': 'e847386590ce4dBC7e3688e2cd843530', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79810.53991921106
+Current all_assest : 79810.53991921106
+Current BTC Price (in USDT): 67699.9
+Latest signal: sell
+Current USDT Balance: 68091.284563903
+Current BTC Balance: 0.07380978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC4368b909d6df3329', 'ordId': '1913120231942471680', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517825918'}, 'id': '1913120231942471680', 'clientOrderId': 'e847386590ce4dBC4368b909d6df3329', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79811.14857272721
+Current all_assest : 79811.14857272721
+Current BTC Price (in USDT): 67688.1
+Latest signal: sell
+Current USDT Balance: 68165.661082933
+Current BTC Balance: 0.07270978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCbef6e7c175ff838b', 'ordId': '1913120598189096960', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517836833'}, 'id': '1913120598189096960', 'clientOrderId': 'e847386590ce4dBCbef6e7c175ff838b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79811.81629302079
+Current all_assest : 79811.81629302079
+Current BTC Price (in USDT): 67717.7
+Latest signal: sell
+Current USDT Balance: 68240.076063463
+Current BTC Balance: 0.07160978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC94b840a6ec1d1dbe', 'ordId': '1913120964536385536', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517847751'}, 'id': '1913120964536385536', 'clientOrderId': 'e847386590ce4dBC94b840a6ec1d1dbe', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79815.50545994379
+Current all_assest : 79815.50545994379
+Current BTC Price (in USDT): 67738.0
+Latest signal: sell
+Current USDT Balance: 68314.513351663
+Current BTC Balance: 0.07050978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC21e707ca6070651c', 'ordId': '1913121330548129792', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517858659'}, 'id': '1913121330548129792', 'clientOrderId': 'e847386590ce4dBC21e707ca6070651c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79817.49105114857
+Current all_assest : 79817.49105114857
+Current BTC Price (in USDT): 67744.1
+Latest signal: sell
+Current USDT Balance: 68388.957343153
+Current BTC Balance: 0.06940978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC375f538ea50a7dd5', 'ordId': '1913121696996081664', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517869580'}, 'id': '1913121696996081664', 'clientOrderId': 'e847386590ce4dBC375f538ea50a7dd5', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79810.95397058252
+Current all_assest : 79810.95397058252
+Current BTC Price (in USDT): 67729.7
+Latest signal: sell
+Current USDT Balance: 68463.392433553
+Current BTC Balance: 0.06830978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc9c1777dcb513fd6', 'ordId': '1913122063880241152', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517880514'}, 'id': '1913122063880241152', 'clientOrderId': 'e847386590ce4dBCc9c1777dcb513fd6', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79814.4740528282
+Current all_assest : 79814.4740528282
+Current BTC Price (in USDT): 67743.2
+Latest signal: sell
+Current USDT Balance: 68537.807853643
+Current BTC Balance: 0.06720978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC1eac2536fcef2439', 'ordId': '1913122430831509504', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517891450'}, 'id': '1913122430831509504', 'clientOrderId': 'e847386590ce4dBC1eac2536fcef2439', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79811.29451118429
+Current all_assest : 79811.29451118429
+Current BTC Price (in USDT): 67696.4
+Latest signal: sell
+Current USDT Balance: 68612.198218813
+Current BTC Balance: 0.06610978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb0dcee9213acce11', 'ordId': '1913122797749223424', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517902385'}, 'id': '1913122797749223424', 'clientOrderId': 'e847386590ce4dBCb0dcee9213acce11', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79807.14508198226
+Current all_assest : 79807.14508198226
+Current BTC Price (in USDT): 67660.5
+Latest signal: sell
+Current USDT Balance: 68686.550232373
+Current BTC Balance: 0.06500978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe522956a978d1214', 'ordId': '1913123163391868928', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517913282'}, 'id': '1913123163391868928', 'clientOrderId': 'e847386590ce4dBCe522956a978d1214', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79807.50870061667
+Current all_assest : 79807.50870061667
+Current BTC Price (in USDT): 67665.7
+Latest signal: sell
+Current USDT Balance: 68760.908070103
+Current BTC Balance: 0.06390978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC4a6f4f403f3a0df6', 'ordId': '1913123529739157504', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517924200'}, 'id': '1913123529739157504', 'clientOrderId': 'e847386590ce4dBC4a6f4f403f3a0df6', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79804.83642679175
+Current all_assest : 79804.83642679175
+Current BTC Price (in USDT): 67654.0
+Latest signal: sell
+Current USDT Balance: 68835.252940813
+Current BTC Balance: 0.06280978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8556e5a30a2d3de0', 'ordId': '1913123896455544832', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517935129'}, 'id': '1913123896455544832', 'clientOrderId': 'e847386590ce4dBC8556e5a30a2d3de0', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79807.26637943291
+Current all_assest : 79807.26637943291
+Current BTC Price (in USDT): 67650.5
+Latest signal: sell
+Current USDT Balance: 68909.594075263
+Current BTC Balance: 0.06170978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC9f1920ecf7729f67', 'ordId': '1913124262702170112', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517946044'}, 'id': '1913124262702170112', 'clientOrderId': 'e847386590ce4dBC9f1920ecf7729f67', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79808.19841989965
+Current all_assest : 79808.19841989965
+Current BTC Price (in USDT): 67686.0
+n_estimators: 100, max_depth: None, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 100, max_depth: None, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 100, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 10, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 100, max_depth: 10, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 100, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 20, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 100, max_depth: 20, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 100, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 100, max_depth: 30, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 100, max_depth: 30, min_samples_split: 5, Accuracy: 0.71
+n_estimators: 100, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: None, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 300, max_depth: None, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 10, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 300, max_depth: 10, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 20, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 300, max_depth: 20, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 300, max_depth: 30, min_samples_split: 2, Accuracy: 0.71
+n_estimators: 300, max_depth: 30, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 300, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: None, min_samples_split: 2, Accuracy: 0.79
+n_estimators: 500, max_depth: None, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 500, max_depth: None, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 10, min_samples_split: 2, Accuracy: 0.79
+n_estimators: 500, max_depth: 10, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 500, max_depth: 10, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 20, min_samples_split: 2, Accuracy: 0.79
+n_estimators: 500, max_depth: 20, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 500, max_depth: 20, min_samples_split: 10, Accuracy: 0.64
+n_estimators: 500, max_depth: 30, min_samples_split: 2, Accuracy: 0.79
+n_estimators: 500, max_depth: 30, min_samples_split: 5, Accuracy: 0.64
+n_estimators: 500, max_depth: 30, min_samples_split: 10, Accuracy: 0.64
+Best Parameters - n_estimators: 500, max_depth: None, min_samples_split: 2
+Best Model Accuracy: 0.79
+Latest signal: sell
+Current USDT Balance: 68983.974220663
+Current BTC Balance: 0.06060978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCba29071896706a81', 'ordId': '1913124897015152640', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517964948'}, 'id': '1913124897015152640', 'clientOrderId': 'e847386590ce4dBCba29071896706a81', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79806.52579136757
+Current all_assest : 79806.52579136757
+Current BTC Price (in USDT): 67689.0
+Latest signal: sell
+Current USDT Balance: 69058.357662763
+Current BTC Balance: 0.05950978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC3629e521435aeef8', 'ordId': '1913125262792015872', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517975849'}, 'id': '1913125262792015872', 'clientOrderId': 'e847386590ce4dBC3629e521435aeef8', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79804.93654462225
+Current all_assest : 79804.93654462225
+Current BTC Price (in USDT): 67660.5
+Latest signal: sell
+Current USDT Balance: 69132.700995013
+Current BTC Balance: 0.05840978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa546c2cdd7e8f640', 'ordId': '1913125629005086720', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517986763'}, 'id': '1913125629005086720', 'clientOrderId': 'e847386590ce4dBCa546c2cdd7e8f640', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79806.74423375678
+Current all_assest : 79806.74423375678
+Current BTC Price (in USDT): 67655.5
+Latest signal: sell
+Current USDT Balance: 69207.047514073
+Current BTC Balance: 0.05730978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC9ad572b82d0f4069', 'ordId': '1913125995788582912', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729517997694'}, 'id': '1913125995788582912', 'clientOrderId': 'e847386590ce4dBC9ad572b82d0f4069', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79807.66475061302
+Current all_assest : 79807.66475061302
+Current BTC Price (in USDT): 67649.2
+Latest signal: sell
+Current USDT Balance: 69281.387219953
+Current BTC Balance: 0.05620978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC1b1c6b3b7b7b9a7f', 'ordId': '1913126362068762624', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518008610'}, 'id': '1913126362068762624', 'clientOrderId': 'e847386590ce4dBC1b1c6b3b7b7b9a7f', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79803.95279149749
+Current all_assest : 79803.95279149749
+Current BTC Price (in USDT): 67670.3
+Latest signal: sell
+Current USDT Balance: 69355.716815953
+Current BTC Balance: 0.05510978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa7bfbb7426bfc893', 'ordId': '1913126728315387904', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518019525'}, 'id': '1913126728315387904', 'clientOrderId': 'e847386590ce4dBCa7bfbb7426bfc893', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79799.62513538085
+Current all_assest : 79799.62513538085
+Current BTC Price (in USDT): 67646.6
+Latest signal: sell
+Current USDT Balance: 69430.046521843
+Current BTC Balance: 0.05400978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCad58f4ef09c7ea9f', 'ordId': '1913127094528458752', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518030439'}, 'id': '1913127094528458752', 'clientOrderId': 'e847386590ce4dBCad58f4ef09c7ea9f', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79801.86064531098
+Current all_assest : 79801.86064531098
+Current BTC Price (in USDT): 67652.2
+Latest signal: sell
+Current USDT Balance: 69504.386996953
+Current BTC Balance: 0.05290978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8576621faac4b370', 'ordId': '1913127461412618240', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518041373'}, 'id': '1913127461412618240', 'clientOrderId': 'e847386590ce4dBC8576621faac4b370', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79799.44927337502
+Current all_assest : 79799.44927337502
+Current BTC Price (in USDT): 67627.5
+Latest signal: sell
+Current USDT Balance: 69578.702746813
+Current BTC Balance: 0.05180978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCac6cca97a25ff153', 'ordId': '1913127827692797952', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518052289'}, 'id': '1913127827692797952', 'clientOrderId': 'e847386590ce4dBCac6cca97a25ff153', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79798.3771094847
+Current all_assest : 79798.3771094847
+Current BTC Price (in USDT): 67584.5
+Latest signal: sell
+Current USDT Balance: 69652.971353863
+Current BTC Balance: 0.05070978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCdc6c51aab131f683', 'ordId': '1913128194241413120', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518063213'}, 'id': '1913128194241413120', 'clientOrderId': 'e847386590ce4dBCdc6c51aab131f683', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79798.77308171452
+Current all_assest : 79798.77308171452
+Current BTC Price (in USDT): 67592.0
+Latest signal: sell
+Current USDT Balance: 69727.238202673
+Current BTC Balance: 0.04960978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCab1601cc983a688a', 'ordId': '1913128561092018176', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518074146'}, 'id': '1913128561092018176', 'clientOrderId': 'e847386590ce4dBCab1601cc983a688a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79793.07524564158
+Current all_assest : 79793.07524564158
+Current BTC Price (in USDT): 67514.1
+Latest signal: sell
+Current USDT Balance: 69801.42711841907
+Current BTC Balance: 0.04850978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC7a41705879586b60', 'ordId': '1913128927170871296', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518085056'}, 'id': '1913128927170871296', 'clientOrderId': 'e847386590ce4dBC7a41705879586b60', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79793.2227056787
+Current all_assest : 79793.2227056787
+Current BTC Price (in USDT): 67513.6
+Latest signal: sell
+Current USDT Balance: 69875.61715411907
+Current BTC Balance: 0.04740978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb38b28a6aab4d297', 'ordId': '1913129293383942144', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518095970'}, 'id': '1913129293383942144', 'clientOrderId': 'e847386590ce4dBCb38b28a6aab4d297', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79793.018841786
+Current all_assest : 79793.018841786
+Current BTC Price (in USDT): 67520.4
+Latest signal: sell
+Current USDT Balance: 69949.81334365907
+Current BTC Balance: 0.04630978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC5cfedc246322c8a4', 'ordId': '1913129659664121856', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518106886'}, 'id': '1913129659664121856', 'clientOrderId': 'e847386590ce4dBC5cfedc246322c8a4', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79786.30076708674
+Current all_assest : 79786.30076708674
+Current BTC Price (in USDT): 67551.2
+Latest signal: sell
+Current USDT Balance: 70024.04524744907
+Current BTC Balance: 0.04520978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe9bc1f007bafd824', 'ordId': '1913130026145628160', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518117808'}, 'id': '1913130026145628160', 'clientOrderId': 'e847386590ce4dBCe9bc1f007bafd824', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79795.34543947852
+Current all_assest : 79795.34543947852
+Current BTC Price (in USDT): 67566.0
+Latest signal: sell
+Current USDT Balance: 70098.29341495907
+Current BTC Balance: 0.04410978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC203eaf62a17ae761', 'ordId': '1913130392358699008', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518128722'}, 'id': '1913130392358699008', 'clientOrderId': 'e847386590ce4dBC203eaf62a17ae761', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79794.60646801471
+Current all_assest : 79794.60646801471
+Current BTC Price (in USDT): 67660.9
+Latest signal: sell
+Current USDT Balance: 70172.53070335908
+Current BTC Balance: 0.04300978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC42b7d24d992d19b0', 'ordId': '1913130758571769856', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518139636'}, 'id': '1913130758571769856', 'clientOrderId': 'e847386590ce4dBC42b7d24d992d19b0', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79790.4609596891
+Current all_assest : 79790.4609596891
+Current BTC Price (in USDT): 67530.4
+Latest signal: sell
+Current USDT Balance: 70246.72612366907
+Current BTC Balance: 0.04190978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC6dc4dea54db04dbe', 'ordId': '1913131125086830592', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518150559'}, 'id': '1913131125086830592', 'clientOrderId': 'e847386590ce4dBC6dc4dea54db04dbe', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79795.06586546615
+Current all_assest : 79795.06586546615
+Current BTC Price (in USDT): 67522.0
+Latest signal: sell
+Current USDT Balance: 70321.06582954907
+Current BTC Balance: 0.04080978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8b5e560f5610847a', 'ordId': '1913131491165683712', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518161469'}, 'id': '1913131491165683712', 'clientOrderId': 'e847386590ce4dBC8b5e560f5610847a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79790.83799689465
+Current all_assest : 79790.83799689465
+Current BTC Price (in USDT): 67670.2
+Latest signal: sell
+Current USDT Balance: 70395.42861232908
+Current BTC Balance: 0.03970978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC646517ea951c82d9', 'ordId': '1913131857076764672', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518172374'}, 'id': '1913131857076764672', 'clientOrderId': 'e847386590ce4dBC646517ea951c82d9', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79786.45400349476
+Current all_assest : 79786.45400349476
+Current BTC Price (in USDT): 67499.0
+Latest signal: sell
+Current USDT Balance: 70469.60183485907
+Current BTC Balance: 0.03860978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC9707c1a869ebc3b1', 'ordId': '1913132223390498816', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518183291'}, 'id': '1913132223390498816', 'clientOrderId': 'e847386590ce4dBC9707c1a869ebc3b1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79782.39510042219
+Current all_assest : 79782.39510042219
+Current BTC Price (in USDT): 67437.5
+Latest signal: sell
+Current USDT Balance: 70543.70868382907
+Current BTC Balance: 0.03750978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC420e9beaa39fa7f3', 'ordId': '1913132589804896256', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518194211'}, 'id': '1913132589804896256', 'clientOrderId': 'e847386590ce4dBC420e9beaa39fa7f3', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79782.7934187675
+Current all_assest : 79782.7934187675
+Current BTC Price (in USDT): 67450.0
+Latest signal: sell
+Current USDT Balance: 70617.82948882907
+Current BTC Balance: 0.03640978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC827ee56bf96185e9', 'ordId': '1913132956219293696', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518205131'}, 'id': '1913132956219293696', 'clientOrderId': 'e847386590ce4dBC827ee56bf96185e9', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79783.19867124753
+Current all_assest : 79783.19867124753
+Current BTC Price (in USDT): 67484.7
+Latest signal: sell
+Current USDT Balance: 70691.98842565907
+Current BTC Balance: 0.03530978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCbb8d806e341aa34e', 'ordId': '1913133322868572160', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518216058'}, 'id': '1913133322868572160', 'clientOrderId': 'e847386590ce4dBCbb8d806e341aa34e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79780.84601543852
+Current all_assest : 79780.84601543852
+Current BTC Price (in USDT): 67492.1
+Latest signal: sell
+Current USDT Balance: 70766.15549434908
+Current BTC Balance: 0.03420978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC9153bd8e0ff3e11f', 'ordId': '1913133690927136768', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518227027'}, 'id': '1913133690927136768', 'clientOrderId': 'e847386590ce4dBC9153bd8e0ff3e11f', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79782.11798774342
+Current all_assest : 79782.11798774342
+Current BTC Price (in USDT): 67487.9
+Latest signal: sell
+Current USDT Balance: 70840.31783776908
+Current BTC Balance: 0.03310978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC809f72733cf675e5', 'ordId': '1913134055361822720', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518237888'}, 'id': '1913134055361822720', 'clientOrderId': 'e847386590ce4dBC809f72733cf675e5', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79779.66847717969
+Current all_assest : 79779.66847717969
+Current BTC Price (in USDT): 67481.7
+Latest signal: sell
+Current USDT Balance: 70914.47347789907
+Current BTC Balance: 0.03200978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC40270b5463aed640', 'ordId': '1913134421876883456', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518248811'}, 'id': '1913134421876883456', 'clientOrderId': 'e847386590ce4dBC40270b5463aed640', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79780.05312411339
+Current all_assest : 79780.05312411339
+Current BTC Price (in USDT): 67559.9
+Latest signal: sell
+Current USDT Balance: 70988.71505200908
+Current BTC Balance: 0.03090978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCf391ae34da0d13b5', 'ordId': '1913134788089954304', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518259725'}, 'id': '1913134788089954304', 'clientOrderId': 'e847386590ce4dBCf391ae34da0d13b5', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79782.83100562263
+Current all_assest : 79782.83100562263
+Current BTC Price (in USDT): 67573.1
+Latest signal: sell
+Current USDT Balance: 71062.97113159907
+Current BTC Balance: 0.02980978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC459a79908b008370', 'ordId': '1913135154370134016', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518270641'}, 'id': '1913135154370134016', 'clientOrderId': 'e847386590ce4dBC459a79908b008370', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79784.3980766004
+Current all_assest : 79784.3980766004
+Current BTC Price (in USDT): 67628.5
+Latest signal: sell
+Current USDT Balance: 71137.28809024907
+Current BTC Balance: 0.02870978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC9dbc1cc5e246615c', 'ordId': '1913135521321402368', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518281577'}, 'id': '1913135521321402368', 'clientOrderId': 'e847386590ce4dBC9dbc1cc5e246615c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79789.02281314589
+Current all_assest : 79789.02281314589
+Current BTC Price (in USDT): 67559.7
+Latest signal: sell
+Current USDT Balance: 71211.52373029907
+Current BTC Balance: 0.02760978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC6811f5229c83f138', 'ordId': '1913135887668690944', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518292495'}, 'id': '1913135887668690944', 'clientOrderId': 'e847386590ce4dBC6811f5229c83f138', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79788.07719320415
+Current all_assest : 79788.07719320415
+Current BTC Price (in USDT): 67547.7
+Latest signal: sell
+Current USDT Balance: 71285.75189782908
+Current BTC Balance: 0.02650978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa44b577023df0672', 'ordId': '1913136253948870656', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518303411'}, 'id': '1913136253948870656', 'clientOrderId': 'e847386590ce4dBCa44b577023df0672', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79783.50409037006
+Current all_assest : 79783.50409037006
+Current BTC Price (in USDT): 67569.6
+Latest signal: sell
+Current USDT Balance: 71360.00479060908
+Current BTC Balance: 0.02540978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC486b185aab6f1bc', 'ordId': '1913136619658625024', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518314310'}, 'id': '1913136619658625024', 'clientOrderId': 'e847386590ce4dBC486b185aab6f1bc', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79783.29992728577
+Current all_assest : 79783.29992728577
+Current BTC Price (in USDT): 67580.5
+Latest signal: sell
+Current USDT Balance: 71434.25746360907
+Current BTC Balance: 0.02430978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC5840638740ed4ebc', 'ordId': '1913136985737478144', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518325220'}, 'id': '1913136985737478144', 'clientOrderId': 'e847386590ce4dBC5840638740ed4ebc', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79786.58867445539
+Current all_assest : 79786.58867445539
+Current BTC Price (in USDT): 67598.1
+Latest signal: sell
+Current USDT Balance: 71508.54101569907
+Current BTC Balance: 0.02320978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCea954f9ee3228ef8', 'ordId': '1913137352051212288', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518336137'}, 'id': '1913137352051212288', 'clientOrderId': 'e847386590ce4dBCea954f9ee3228ef8', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79785.61002370535
+Current all_assest : 79785.61002370535
+Current BTC Price (in USDT): 67582.2
+Latest signal: sell
+Current USDT Balance: 71582.76182059907
+Current BTC Balance: 0.02210978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC588ae64c7b2ca1ec', 'ordId': '1913137718297837568', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518347052'}, 'id': '1913137718297837568', 'clientOrderId': 'e847386590ce4dBC588ae64c7b2ca1ec', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79784.17306052186
+Current all_assest : 79784.17306052186
+Current BTC Price (in USDT): 67555.4
+Latest signal: sell
+Current USDT Balance: 71656.99833976908
+Current BTC Balance: 0.02100978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC4548a4b8e5ad316e', 'ordId': '1913138084913561600', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518357978'}, 'id': '1913138084913561600', 'clientOrderId': 'e847386590ce4dBC4548a4b8e5ad316e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79781.1336124366
+Current all_assest : 79781.1336124366
+Current BTC Price (in USDT): 67518.9
+Latest signal: sell
+Current USDT Balance: 71731.19233150907
+Current BTC Balance: 0.01990978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC367b0921dec0a5b4', 'ordId': '1913138451663503360', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518368908'}, 'id': '1913138451663503360', 'clientOrderId': 'e847386590ce4dBC367b0921dec0a5b4', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79783.05712191487
+Current all_assest : 79783.05712191487
+Current BTC Price (in USDT): 67562.6
+Latest signal: sell
+Current USDT Balance: 71805.42885067908
+Current BTC Balance: 0.01880978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC1d48e65d92e78a4e', 'ordId': '1913138819050979328', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518379857'}, 'id': '1913138819050979328', 'clientOrderId': 'e847386590ce4dBC1d48e65d92e78a4e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79780.84139732245
+Current all_assest : 79780.84139732245
+Current BTC Price (in USDT): 67506.7
+Latest signal: sell
+Current USDT Balance: 71879.61196330907
+Current BTC Balance: 0.01770978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCddc9eab636a8a4a4', 'ordId': '1913139185129832448', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518390767'}, 'id': '1913139185129832448', 'clientOrderId': 'e847386590ce4dBCddc9eab636a8a4a4', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79780.09182392828
+Current all_assest : 79780.09182392828
+Current BTC Price (in USDT): 67496.8
+Latest signal: sell
+Current USDT Balance: 71953.78419682907
+Current BTC Balance: 0.01660978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8e37adb8da9b0b15', 'ordId': '1913139551745556480', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518401693'}, 'id': '1913139551745556480', 'clientOrderId': 'e847386590ce4dBC8e37adb8da9b0b15', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79778.81228176376
+Current all_assest : 79778.81228176376
+Current BTC Price (in USDT): 67501.9
+Latest signal: sell
+Current USDT Balance: 72027.96203473907
+Current BTC Balance: 0.01550978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8ab32043ec35f59e', 'ordId': '1913139917656637440', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518412598'}, 'id': '1913139917656637440', 'clientOrderId': 'e847386590ce4dBC8ab32043ec35f59e', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79779.05780101186
+Current all_assest : 79779.05780101186
+Current BTC Price (in USDT): 67497.0
+Latest signal: sell
+Current USDT Balance: 72102.13448803907
+Current BTC Balance: 0.01440978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC179666db7be11611', 'ordId': '1913140283735490560', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518423508'}, 'id': '1913140283735490560', 'clientOrderId': 'e847386590ce4dBC179666db7be11611', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79780.12770431364
+Current all_assest : 79780.12770431364
+Current BTC Price (in USDT): 67496.3
+Latest signal: sell
+Current USDT Balance: 72176.30617210908
+Current BTC Balance: 0.01330978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC77ea1398e7ada54f', 'ordId': '1913140649814343680', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518434418'}, 'id': '1913140649814343680', 'clientOrderId': 'e847386590ce4dBC77ea1398e7ada54f', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79782.20323658742
+Current all_assest : 79782.20323658742
+Current BTC Price (in USDT): 67505.3
+Latest signal: sell
+Current USDT Balance: 72250.48774627908
+Current BTC Balance: 0.01220978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe8692aad7ac36918', 'ordId': '1913141016262295552', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518445339'}, 'id': '1913141016262295552', 'clientOrderId': 'e847386590ce4dBCe8692aad7ac36918', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79782.49194421856
+Current all_assest : 79782.49194421856
+Current BTC Price (in USDT): 67508.1
+Latest signal: sell
+Current USDT Balance: 72324.67228747907
+Current BTC Balance: 0.01110978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC33691c90d5b25e9b', 'ordId': '1913141383985315840', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518456298'}, 'id': '1913141383985315840', 'clientOrderId': 'e847386590ce4dBC33691c90d5b25e9b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79779.92878320976
+Current all_assest : 79779.92878320976
+Current BTC Price (in USDT): 67513.5
+Latest signal: sell
+Current USDT Balance: 72398.86287262908
+Current BTC Balance: 0.01000978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe2b0069bfa93312a', 'ordId': '1913141750030614528', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518467207'}, 'id': '1913141750030614528', 'clientOrderId': 'e847386590ce4dBCe2b0069bfa93312a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79784.61571908282
+Current all_assest : 79784.61571908282
+Current BTC Price (in USDT): 67536.6
+Latest signal: sell
+Current USDT Balance: 72473.07884236907
+Current BTC Balance: 0.00890978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCeeddcbe0df14117f', 'ordId': '1913142116243685376', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518478121'}, 'id': '1913142116243685376', 'clientOrderId': 'e847386590ce4dBCeeddcbe0df14117f', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79782.26838726854
+Current all_assest : 79782.26838726854
+Current BTC Price (in USDT): 67459.6
+Latest signal: sell
+Current USDT Balance: 72547.212076007
+Current BTC Balance: 0.00780978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCac560567879d082', 'ordId': '1913142482523865088', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518489037'}, 'id': '1913142482523865088', 'clientOrderId': 'e847386590ce4dBCac560567879d082', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79782.1784800848
+Current all_assest : 79782.1784800848
+Current BTC Price (in USDT): 67585.8
+Latest signal: sell
+Current USDT Balance: 72621.482001737
+Current BTC Balance: 0.00670978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc53f4d5245eace70', 'ordId': '1913142848434946048', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518499942'}, 'id': '1913142848434946048', 'clientOrderId': 'e847386590ce4dBCc53f4d5245eace70', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79785.01752425196
+Current all_assest : 79785.01752425196
+Current BTC Price (in USDT): 67558.0
+Latest signal: sell
+Current USDT Balance: 72695.72137804699
+Current BTC Balance: 0.00560978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCc072835e0d27e187', 'ordId': '1913143214782234624', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518510860'}, 'id': '1913143214782234624', 'clientOrderId': 'e847386590ce4dBCc072835e0d27e187', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79784.55111451948
+Current all_assest : 79784.55111451948
+Current BTC Price (in USDT): 67602.2
+Latest signal: sell
+Current USDT Balance: 72770.009435627
+Current BTC Balance: 0.00450978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa23f1f76a6bab96d', 'ordId': '1913143581297295360', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518521783'}, 'id': '1913143581297295360', 'clientOrderId': 'e847386590ce4dBCa23f1f76a6bab96d', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79783.47408354445
+Current all_assest : 79783.47408354445
+Current BTC Price (in USDT): 67571.8
+Latest signal: sell
+Current USDT Balance: 72844.26848224699
+Current BTC Balance: 0.00340978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC40eebfd2d8f05aa1', 'ordId': '1913143947376148480', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518532693'}, 'id': '1913143947376148480', 'clientOrderId': 'e847386590ce4dBC40eebfd2d8f05aa1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79786.14011425934
+Current all_assest : 79786.14011425934
+Current BTC Price (in USDT): 67596.6
+Latest signal: sell
+Current USDT Balance: 72918.526210187
+Current BTC Balance: 0.00230978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC91d1655594ccce39', 'ordId': '1913144313689882624', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518543610'}, 'id': '1913144313689882624', 'clientOrderId': 'e847386590ce4dBC91d1655594ccce39', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79785.4205206499
+Current all_assest : 79785.4205206499
+Current BTC Price (in USDT): 67590.0
+Latest signal: sell
+Current USDT Balance: 72992.800861187
+Current BTC Balance: 0.00120978931
+Selling 0.0011 of BTC: {'info': {'clOrdId': 'e847386590ce4dBC70493cbf6dfc5a42', 'ordId': '1913144681178021888', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729518554562'}, 'id': '1913144681178021888', 'clientOrderId': 'e847386590ce4dBC70493cbf6dfc5a42', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79784.87283104417
+Current all_assest : 79784.87283104417
+Current BTC Price (in USDT): 67577.9
+Latest signal: sell
+Current USDT Balance: 73067.06221549699
+Current BTC Balance: 0.00010978931
+

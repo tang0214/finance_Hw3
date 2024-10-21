@@ -1,0 +1,714 @@
+Model Accuracy: 0.56
+Latest signal: sell
+Current USDT Balance: 43233.56789719188
+Current BTC Balance: 0.43819766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC3d14df36290897d1', 'ordId': '1910704248380407808', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729445823997'}, 'id': '1910704248380407808', 'clientOrderId': 'e847386590ce4dBC3d14df36290897d1', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79974.67682003637
+Current all_assest : 79974.67682003637
+Latest signal: sell
+Current USDT Balance: 43308.787602191886
+Current BTC Balance: 0.43709766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC8080a2248e2fadbd', 'ordId': '1910706288691200000', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729445884803'}, 'id': '1910706288691200000', 'clientOrderId': 'e847386590ce4dBC8080a2248e2fadbd', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79962.88367677729
+Current all_assest : 79962.88367677729
+Latest signal: sell
+Current USDT Balance: 43383.987526991885
+Current BTC Balance: 0.43599766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe285e619e5383c07', 'ordId': '1910708329605971968', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729445945627'}, 'id': '1910708329605971968', 'clientOrderId': 'e847386590ce4dBCe285e619e5383c07', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79959.89891160354
+Current all_assest : 79959.89891160354
+Latest signal: sell
+Current USDT Balance: 43459.18953970189
+Current BTC Balance: 0.43489766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC7d0da391bb36e78d', 'ordId': '1910710371997138944', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446006495'}, 'id': '1910710371997138944', 'clientOrderId': 'e847386590ce4dBC7d0da391bb36e78d', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79966.4804703298
+Current all_assest : 79966.4804703298
+Latest signal: sell
+Current USDT Balance: 43534.40034361189
+Current BTC Balance: 0.43379766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC3eafeb95b9e899fd', 'ordId': '1910712412878356480', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446067318'}, 'id': '1910712412878356480', 'clientOrderId': 'e847386590ce4dBC3eafeb95b9e899fd', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79970.6129009683
+Current all_assest : 79970.6129009683
+Model Accuracy: 0.56
+Latest signal: sell
+Current USDT Balance: 43609.62180685189
+Current BTC Balance: 0.43269766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBCb987b6de40c6e755', 'ordId': '1910714459329609728', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446128307'}, 'id': '1910714459329609728', 'clientOrderId': 'e847386590ce4dBCb987b6de40c6e755', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79974.04424671503
+Current all_assest : 79974.04424671503
+Latest signal: sell
+Current USDT Balance: 43684.84887448188
+Current BTC Balance: 0.43159766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBCa67042e0f2eec060', 'ordId': '1910716500009500672', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446189124'}, 'id': '1910716500009500672', 'clientOrderId': 'e847386590ce4dBCa67042e0f2eec060', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79979.83906872539
+Current all_assest : 79979.83906872539
+Latest signal: sell
+Current USDT Balance: 43760.09055748188
+Current BTC Balance: 0.43049766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBCe2cd654582ea9d80', 'ordId': '1910718540655837184', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446249940'}, 'id': '1910718540655837184', 'clientOrderId': 'e847386590ce4dBCe2cd654582ea9d80', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79971.47874626318
+Current all_assest : 79971.47874626318
+Latest signal: sell
+Current USDT Balance: 43835.31476797189
+Current BTC Balance: 0.42939766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC47ae48973d487ea7', 'ordId': '1910720581302173696', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446310756'}, 'id': '1910720581302173696', 'clientOrderId': 'e847386590ce4dBC47ae48973d487ea7', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79974.22328509101
+Current all_assest : 79974.22328509101
+Latest signal: sell
+Current USDT Balance: 43910.54271472189
+Current BTC Balance: 0.42829766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC6bebabb6f05e948a', 'ordId': '1910722621780738048', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446371567'}, 'id': '1910722621780738048', 'clientOrderId': 'e847386590ce4dBC6bebabb6f05e948a', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79970.75688368334
+Current all_assest : 79970.75688368334
+Model Accuracy: 0.56
+Latest signal: sell
+Current USDT Balance: 43985.76373840189
+Current BTC Balance: 0.42719766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd70fe96af1d3673f', 'ordId': '1910724666722041856', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446432511'}, 'id': '1910724666722041856', 'clientOrderId': 'e847386590ce4dBCd70fe96af1d3673f', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79976.12344661697
+Current all_assest : 79976.12344661697
+Latest signal: sell
+Current USDT Balance: 44060.998718111885
+Current BTC Balance: 0.42609766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC38d0323c01467d96', 'ordId': '1910726707435487232', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446493329'}, 'id': '1910726707435487232', 'clientOrderId': 'e847386590ce4dBC38d0323c01467d96', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79986.69182828789
+Current all_assest : 79986.69182828789
+Latest signal: sell
+Current USDT Balance: 44136.25139011189
+Current BTC Balance: 0.42499766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC632230e31a7b9cd7', 'ordId': '1910728747914051584', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446554140'}, 'id': '1910728747914051584', 'clientOrderId': 'e847386590ce4dBC632230e31a7b9cd7', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79991.62385781242
+Current all_assest : 79991.62385781242
+Latest signal: sell
+Current USDT Balance: 44211.51439177189
+Current BTC Balance: 0.42389766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC2de7803a3f939355', 'ordId': '1910730788560388096', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446614956'}, 'id': '1910730788560388096', 'clientOrderId': 'e847386590ce4dBC2de7803a3f939355', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 79992.27840947242
+Current all_assest : 79992.27840947242
+Latest signal: sell
+Current USDT Balance: 44286.77739343188
+Current BTC Balance: 0.42279766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC2092202bc242b045', 'ordId': '1910732829173170176', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446675771'}, 'id': '1910732829173170176', 'clientOrderId': 'e847386590ce4dBC2092202bc242b045', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 80001.72480756648
+Current all_assest : 80001.72480756648
+Model Accuracy: 0.56
+Latest signal: sell
+Current USDT Balance: 44362.060834631884
+Current BTC Balance: 0.42169766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBCd4eb2fce10b61d29', 'ordId': '1910734874886225920', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446736738'}, 'id': '1910734874886225920', 'clientOrderId': 'e847386590ce4dBCd4eb2fce10b61d29', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 80001.29284190638
+Current all_assest : 80001.29284190638
+Latest signal: sell
+Current USDT Balance: 44437.346473631886
+Current BTC Balance: 0.42059766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBCcd337896b278825b', 'ordId': '1910736915633225728', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446797557'}, 'id': '1910736915633225728', 'clientOrderId': 'e847386590ce4dBCcd337896b278825b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 80056.6939827309
+Current all_assest : 80056.6939827309
+Latest signal: sell
+Current USDT Balance: 44512.743870761886
+Current BTC Balance: 0.41949766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC231a6036ff9a2e1c', 'ordId': '1910738956413779968', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446858377'}, 'id': '1910738956413779968', 'clientOrderId': 'e847386590ce4dBC231a6036ff9a2e1c', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 80039.9355074626
+Current all_assest : 80039.9355074626
+Latest signal: sell
+Current USDT Balance: 44588.112916271886
+Current BTC Balance: 0.41839766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBC1d19919e4bbd0898', 'ordId': '1910740997093670912', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446919194'}, 'id': '1910740997093670912', 'clientOrderId': 'e847386590ce4dBC1d19919e4bbd0898', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 80035.3318355052
+Current all_assest : 80035.3318355052
+Latest signal: sell
+Current USDT Balance: 44663.46833542189
+Current BTC Balance: 0.41729766995
+Selling 0.00% of BTC: {'info': {'clOrdId': 'e847386590ce4dBCadc2c7902ee0e05b', 'ordId': '1910743037773561856', 'sCode': '0', 'sMsg': 'Order placed', 'tag': 'e847386590ce4dBC', 'ts': '1729446980011'}, 'id': '1910743037773561856', 'clientOrderId': 'e847386590ce4dBCadc2c7902ee0e05b', 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'BTC/USDT', 'type': 'market', 'timeInForce': None, 'postOnly': None, 'side': 'sell', 'price': None, 'stopLossPrice': None, 'takeProfitPrice': None, 'stopPrice': None, 'triggerPrice': None, 'average': None, 'cost': None, 'amount': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'reduceOnly': False, 'fees': []}
+Estimated value of all assets in USDT: 80034.35748631737
+Current all_assest : 80034.35748631737
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Model Accuracy: 0.50
+Exiting trading loop...
+
